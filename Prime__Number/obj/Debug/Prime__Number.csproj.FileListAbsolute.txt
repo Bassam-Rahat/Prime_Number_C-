@@ -1,0 +1,8 @@
+C:\Users\INSIGNIA PC\source\repos\Prime__Number\Prime__Number\bin\Debug\Prime__Number.exe.config
+C:\Users\INSIGNIA PC\source\repos\Prime__Number\Prime__Number\bin\Debug\Prime__Number.exe
+C:\Users\INSIGNIA PC\source\repos\Prime__Number\Prime__Number\bin\Debug\Prime__Number.pdb
+C:\Users\INSIGNIA PC\source\repos\Prime__Number\Prime__Number\obj\Debug\Prime__Number.csproj.AssemblyReference.cache
+C:\Users\INSIGNIA PC\source\repos\Prime__Number\Prime__Number\obj\Debug\Prime__Number.csproj.SuggestedBindingRedirects.cache
+C:\Users\INSIGNIA PC\source\repos\Prime__Number\Prime__Number\obj\Debug\Prime__Number.csproj.CoreCompileInputs.cache
+C:\Users\INSIGNIA PC\source\repos\Prime__Number\Prime__Number\obj\Debug\Prime__Number.exe
+C:\Users\INSIGNIA PC\source\repos\Prime__Number\Prime__Number\obj\Debug\Prime__Number.pdb
